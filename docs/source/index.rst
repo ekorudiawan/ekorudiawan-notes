@@ -1,22 +1,13 @@
-Welcome to Lumache's documentation!
+Catatan Eko Rudiawan!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+**Catatan Eko Rudiawan** merupakan catatan penting seputar R&D di bidang robotics dan AI yang pernah saya lakukan. Catatan ini dibuat sebagai panduan dan pengingat hal-hal yang pernah dilakukan selama riset. Anda diizinkan untuk melakukan modifikasi catatan ini dengan melakukan pull request pada repository yang telah disediakan. 
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Linux Configuration
+   Computer Vision
+   Deep Learning
