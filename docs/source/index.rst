@@ -8,6 +8,6 @@ Contents
 
 .. toctree::
 
-   Linux Configuration
-   Computer Vision
-   Deep Learning
+   linux
+   computer-vision
+   deep-learning
