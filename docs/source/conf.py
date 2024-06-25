@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Eko Rudiawan Notes'
+copyright = '2024, Eko Rudiawan Jamzuri'
+author = 'Eko Rudiawan Jamzuri'
 
 release = '0.1'
 version = '0.1.0'
